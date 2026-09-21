@@ -9,8 +9,11 @@ this project takes user's weight in (pounds) and height in (feet and inches), ca
 this project can be run in any standard python 3 environment.
 
 if you are using conda, you can use the commands:
+
+```
 conda create -n lab01_env python=3.12
 conda activate lab01_env
+```
 
 no external libraries required for this project.
 
@@ -24,10 +27,12 @@ python main.py
 
 ## Example
 
+```
 enter your weight in pounds(lb): 100
 enter your height(feet part only): 5
 enter your height (inches part only): 2
 Your BMI is 18.29, which is categorized as Underweight.
+```
 
 ---
 
