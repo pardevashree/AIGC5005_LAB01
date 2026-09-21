@@ -51,7 +51,7 @@ except ValueError:
     raise SystemExit(1)
 
 
-# coverting total height to inches
+# converting user height into inches
 height_total_inches = (height_feet * 12) + height_inches
 
 #calculate BMI
